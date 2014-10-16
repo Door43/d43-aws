@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aws:home|Door43 (aws)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aws|d43-aws repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aws/archive/master.zip|d43-aws.zip]]
+
+**Recent Changes**
+{{changes>ns = aws}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aws|Ethnologue data]]
+
